@@ -1,0 +1,15 @@
+<div style="display: flex; height: 80vh; font-family: 'Arial Black', sans-serif; text-align: center; color: white;">
+  
+  <div style="flex: 1; background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1516724562728-afc824a36e84?auto=format&fit=crop&w=800'); background-size: cover; display: flex; flex-direction: column; justify-content: center; align-items: center; border-right: 4px solid #fff;">
+    <h2 style="font-size: 3rem; text-shadow: 2px 2px #000;">MEMORIES</h2>
+    <p style="padding: 0 20px;">Your moments, custom-stitched.</p>
+    <button style="margin-top: 20px; padding: 15px 30px; background: white; color: black; border: none; cursor: pointer; font-weight: bold;">CUSTOMIZE NOW</button>
+  </div>
+
+  <div style="flex: 1; background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1614850523296-d8c1af93d400?auto=format&fit=crop&w=800'); background-size: cover; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <h2 style="font-size: 3rem; text-shadow: 2px 2px #ff00ff; color: #00ffff;">ANIME</h2>
+    <p style="padding: 0 20px;">Limited Edition Streetwear Art.</p>
+    <button style="margin-top: 20px; padding: 15px 30px; background: #ff00ff; color: white; border: none; cursor: pointer; font-weight: bold;">SHOP THE DROP</button>
+  </div>
+
+</div>
